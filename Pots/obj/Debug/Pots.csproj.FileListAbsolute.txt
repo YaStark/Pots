@@ -1,0 +1,16 @@
+c:\users\1024\documents\visual studio 2012\Projects\Pots\Pots\bin\Debug\Pots.exe.config
+C:\Users\1024\documents\visual studio 2012\Projects\Pots\Pots\bin\Debug\Pots.exe
+C:\Users\1024\documents\visual studio 2012\Projects\Pots\Pots\bin\Debug\Pots.pdb
+C:\Users\1024\documents\visual studio 2012\Projects\Pots\Pots\obj\Debug\Pots.csprojResolveAssemblyReference.cache
+C:\Users\1024\documents\visual studio 2012\Projects\Pots\Pots\obj\Debug\Pots.Form1.resources
+C:\Users\1024\documents\visual studio 2012\Projects\Pots\Pots\obj\Debug\Pots.Properties.Resources.resources
+C:\Users\1024\documents\visual studio 2012\Projects\Pots\Pots\obj\Debug\Pots.csproj.GenerateResource.Cache
+C:\Users\1024\documents\visual studio 2012\Projects\Pots\Pots\obj\Debug\Pots.exe
+C:\Users\1024\documents\visual studio 2012\Projects\Pots\Pots\obj\Debug\Pots.pdb
+C:\Users\1024\documents\visual studio 2012\Projects\Pots\Pots\bin\Debug\EntityFramework.dll
+C:\Users\1024\documents\visual studio 2012\Projects\Pots\Pots\obj\Debug\Pots.FormEditor.resources
+C:\Users\1024\documents\visual studio 2012\Projects\Pots\Pots\obj\Debug\Pots.DiagramView.resources
+C:\Users\1024\documents\visual studio 2012\Projects\Pots\Pots\bin\Debug\System.Data.SQLite.dll
+C:\Users\1024\documents\visual studio 2012\Projects\Pots\Pots\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\1024\documents\visual studio 2012\Projects\Pots\Pots\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\1024\documents\visual studio 2012\Projects\Pots\Pots\bin\Debug\System.Data.SQLite.xml
